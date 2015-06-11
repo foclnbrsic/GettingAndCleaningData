@@ -1,0 +1,3 @@
+Column 1 describes the Subject, i.e., the person who takes the experiments and performs the Activities.
+Column 2 describes the Activities, which include "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "LAYING", "SITTING", and "STANDING".
+Column 3 to Column 563 describe the mean value of the features corresponding to the description in Column 1 and 2. The features are listed in features.txt
